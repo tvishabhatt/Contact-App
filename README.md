@@ -19,4 +19,4 @@ Android & iOS UI: Seamlessly toggle between Android and iOS layouts for an adapt
 
 🤖 Android Screens
 
-<div align="center"> <img src="https://github.com/user-attachments/assets/849e29cc-72cc-492d-97a3-ce84210d1ec9" alt="Android Screen 1" width="250"/> <img src="https://github.com/user-attachments/assets/c7c61924-1e19-4ca4-ac0a-4454da13021f" alt="Android Screen 2" width="250"/> <p>Android Interface Screens</p> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/849e29cc-72cc-492d-97a3-ce84210d1ec9" alt="Android Screen 1" width="250"/> <img src="https://github.com/user-attachments/assets/c7c61924-1e19-4ca4-ac0a-4454da13021f" alt="Android Screen 2" width="250"/><img src="https://github.com/user-attachments/assets/45ce1303-eed7-4ca8-8a42-82cd4b1b0f0e" alt="Android Screen 3" width="250"/> <p>Android Interface Screens</p> </div>
